@@ -1,3 +1,4 @@
+Chocolate Chip Cookie recipe and Instructions 
 1 cup salted butter 
 1 cup white sugar 
 1 cup brown sugar 
@@ -5,3 +6,11 @@
 2 eggs 
 3 cups flour
 1 tsp baking powder 
+
+INSTRUCTONS: 
+1. Add melted butter and sugars into mixing bowl. 
+2. Begin stirring and mix in eggs, flour, and baking powder  
+3. Once even, mix in chocolate chips 
+4. Preheat oven to 350
+5. Place palm sized dough into oven. 
+6. Leave for 15 minutes 
